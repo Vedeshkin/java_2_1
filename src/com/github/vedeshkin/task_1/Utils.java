@@ -1,4 +1,4 @@
-package com.github.vedeshkin;
+package com.github.vedeshkin.task_1;
 
 import java.util.ArrayList;
 
