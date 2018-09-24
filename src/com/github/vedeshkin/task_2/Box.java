@@ -31,6 +31,7 @@ public class Box <T extends Fruit> {
 
     public void transferFrom(Box<T> box){
         fruits.addAll(box.getFruits());
+        fruits.clear();
     }
 
 }
